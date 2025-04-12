@@ -1,0 +1,4 @@
+copioi oav9/public directoryn sisältö tänne ja
+git add .
+git commit -m "kommentti"
+git push -u origin main

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:8889/</loc>
+    <lastmod>2025-04-04T20:48:16+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8889/categories/</loc>
+  </url><url>
+    <loc>http://localhost:8889/flight-crew/</loc>
+  </url><url>
+    <loc>http://localhost:8889/services/</loc>
+  </url><url>
+    <loc>http://localhost:8889/subscribe/</loc>
+  </url><url>
+    <loc>http://localhost:8889/tags/</loc>
+  </url>
+</urlset>
